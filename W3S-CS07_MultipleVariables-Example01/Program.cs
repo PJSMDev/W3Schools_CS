@@ -1,0 +1,16 @@
+﻿using System;
+
+namespace W3S_CS07_MultipleVariables_Example01
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int x = 5, y = 6, z = 50;
+
+            Console.WriteLine(x + y + z);
+
+            Console.ReadKey();
+        }
+    }
+}
